@@ -1,0 +1,25 @@
+{
+  "name": "my-first-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajibola/Profiler.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rajibola/Profiler/issues"
+  },
+  "homepage": "https://github.com/rajibola/Profiler#readme",
+  "description": ""
+}
